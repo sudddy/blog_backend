@@ -1,0 +1,10 @@
+{
+    "Student": {
+      "dbConfig": {
+        "host": "mongodb://localhost",
+        "port":"27017",
+        "username": "",
+        "password": ""
+      }
+    }
+  }
